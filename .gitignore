@@ -1,0 +1,5 @@
+.vscode
+backend/ext/cspice
+backend/ext/hera
+backend/build
+backend/src/*.b*
